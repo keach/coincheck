@@ -14,8 +14,7 @@ alert.php の中の定数を変える
 
 ### 使い方
 
-``` $ php alert.php
-```
+    $ php alert.php
 
 で、うまく動いたら、cron で何分おきに動かすか、設定
 
