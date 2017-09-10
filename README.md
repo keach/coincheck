@@ -1,1 +1,1 @@
-# coincheck
+# coincheck API の練習
